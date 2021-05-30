@@ -1,4 +1,5 @@
-# project-omnifood
+# Project-Omnifood
+
 Omnifood - a fictional budding food delivery company that focuses on delivering healthy food
 
 This webpage is made as a part of my portfolio development.
